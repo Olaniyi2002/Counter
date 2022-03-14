@@ -1,4 +1,4 @@
-# StateMangement Provider
+# Counter Using Provider
 
  Flutter project.
  This is a Counter project that uses Provider statemangement solution to manage it state
